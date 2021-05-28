@@ -1,7 +1,7 @@
 # Time Series Airport Traffic Prediction:    Charles de Gaulle Airport
 
 ## Purpose:
-This project was used to show how to use time series in order to predict future events based on pervious patterns and events.
+This project was used to show how to use time series in order to predict future events based on previous patterns and events.
 
 ![Charles de Gaulle Airport](https://github.com/Zexes9/Time-Series/blob/main/Graphics/ParijsCharlesdeGaulleAirport-400x292.jpg)
 
@@ -22,7 +22,7 @@ Based on our In-Sample test from 2017 to 2019:
 We found that our model ARIMA (0,1,3)(0,1,1)[12], with no dummy variables, was our best model with an AIC of -860.1.
 The rest of our residuals was white noise and the proportion of points in the confidence bound is 88.24%.
 
-Our prediction of 2020 to 2023 predicted a continued increase in traffic for the for Charles de Gaulle Airport, if COVID-19 had not happened.
+Our prediction of 2020 to 2023 predicted a continued increase in traffic for the Charles de Gaulle Airport, if COVID-19 had not happened.
 
 ![image](https://user-images.githubusercontent.com/76630966/119961355-3e8f7f00-bfa6-11eb-82e7-b9e01493ecd6.png)
 
