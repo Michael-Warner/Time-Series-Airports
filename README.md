@@ -16,8 +16,15 @@ The methodology employed by our team was to use Box-Jenkins.
 
 
 ## Result
+The result we found was our model ARIMA (0,1,3)(0,1,1)[12] with no dummy variables
 
+AIC : -860.1
 
+Residuals : White Noise
+
+Proportion of points in the confidence bound = 88.24%
+![image](https://user-images.githubusercontent.com/76630966/119959427-48b07e00-bfa4-11eb-819d-86664725d53e.png)
+   
 
 ## Conclusion
 
