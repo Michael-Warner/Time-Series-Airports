@@ -14,7 +14,6 @@
 # This file loads traffic at Paris-Charles De Gaulle Airport per month from 2000 to 2019
 # We will use data to forecast the next three years of traffic per month
 # ----------------------------------------------
-
 # load the package needed
 library('TSA')
 library('forecast')
