@@ -24,7 +24,7 @@ The rest of our residuals was white noise and the proportion of points in the co
 
 Our prediction of 2020 to 2023 predicted a continued increase in traffic for the for Charles de Gaulle Airport, if COVID-19 had not happened.
 
-![image](![image](https://user-images.githubusercontent.com/76630966/119961269-2455a100-bfa6-11eb-912c-27b92afe61d1.png))
+![image](https://user-images.githubusercontent.com/76630966/119961355-3e8f7f00-bfa6-11eb-82e7-b9e01493ecd6.png)
 
 ## Conclusion
 
