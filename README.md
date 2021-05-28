@@ -16,15 +16,16 @@ The methodology employed by our team was to use Box-Jenkins.
 
 
 ## Result
-The result we found was our model ARIMA (0,1,3)(0,1,1)[12] with no dummy variables
+Based on our In-Sample test from 2017 to 2019:
+![image](https://user-images.githubusercontent.com/76630966/119959959-c4aac600-bfa4-11eb-9a69-a9e83d2a5197.png)
 
-AIC : -860.1
+We found that our model ARIMA (0,1,3)(0,1,1)[12], with no dummy variables, was our best model with an AIC of -860.1.
+The rest of our residuals was white noise and the proportion of points in the confidence bound is 88.24%.
 
-Residuals : White Noise
+Our prediction of 2020 to 2023 predicted a continued increase in traffic for the for Charles de Gaulle Airport, if COVID-19 had not happened.
 
-Proportion of points in the confidence bound = 88.24%
-![image](https://user-images.githubusercontent.com/76630966/119959427-48b07e00-bfa4-11eb-819d-86664725d53e.png)
-   
+![image](https://user-images.githubusercontent.com/76630966/119960310-1d7a5e80-bfa5-11eb-901b-05e898c508a5.png)
 
 ## Conclusion
 
+We conclude that the Airport traffic will continue to increase over time, after the COVID 19 pandemic has been taken care of.  
