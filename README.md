@@ -1,5 +1,4 @@
-# Time Series Airport Traffic Prediction
-    # Charles de Gaulle Airport
+# Time Series Airport Traffic Prediction    Charles de Gaulle Airport
 
 ## Purpose:
 This project was used to show how to use time series in order to predict future events based on pervious patterns and events.
