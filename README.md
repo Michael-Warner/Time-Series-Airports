@@ -12,7 +12,7 @@ This dataset contains the traffic for Charles de Gaulle Airport in France from J
 
 
 ## Method:
-The methodology employed by our team was to use Box-Jenkins.
+The methodology used was to EDA of the dataset, clean it, then to employ a Box-Jenkins time series analysis.
 
 
 ## Result
